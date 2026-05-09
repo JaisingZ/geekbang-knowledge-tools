@@ -22,4 +22,4 @@
 
 - `skills/geektime-article-summarizer/SKILL.md`: 核心 skill
 - `examples/`: 最小使用示例
-
+- `examples/924817-summary.md`: 当前文章的实际摘要示例
